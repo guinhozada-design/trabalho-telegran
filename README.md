@@ -55,8 +55,6 @@ tela que aquele ícone não precisa ser lido).
  1.5 Toque pessoal
 -  Coloquei um rodapé com meu nome dizendo que é um projeto de estudo — isso não existe no site original
 
----
-
 Prints comparando com o original
 
 | Site original | 
